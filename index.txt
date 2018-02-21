@@ -1,5 +1,6 @@
 <html>
 
+<<<<<<< HEAD
 
 	<body>
 		
@@ -11,4 +12,7 @@
 	<header> </header>
 	
 
+=======
+	<body></body>
+>>>>>>> parent of bdee2fc... 1
 <html>
