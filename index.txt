@@ -1,18 +1,21 @@
 <html>
 
-<<<<<<< HEAD
 
 	<body>
-		
 		<h1>Git</h1>
-	123434
+<h1>Git</h1>
+
+<h1>Git</h1>
+
+<h1>Git</h1>
+
+
 		
 	</body>
 	
 	<header> </header>
 	
 
-=======
 	<body></body>
->>>>>>> parent of bdee2fc... 1
+
 <html>
